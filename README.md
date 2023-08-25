@@ -75,4 +75,6 @@ To set up and run the Full Stack GPT Chat App locally:
 
 5. Run the backend server and the frontend application simultaneously.
 
-6. Access the app through your web browser and start conversing with the GPT-powered chatbot!
+6. Access the app through your web browser and create a chat in the app.
+
+7. After creating a chat add a bot which will introduce the ability of the GPT to the chat.

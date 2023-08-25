@@ -3,21 +3,28 @@
 Welcome to the Full Stack GPT Chat App! This application combines the power of OpenAI's GPT (Generative Pre-trained Transformer) language model with a user-friendly web interface to create a seamless chat experience. Users can interact with the AI-powered chatbot in a conversational manner.
 
 ## Screenshots
-**Registration Window**![Register Form](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/4dd27438-6071-4361-adf9-e49f9ccd03e3)
+**Registration Window**
+_________________________
+![Register Form](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/4dd27438-6071-4361-adf9-e49f9ccd03e3)
 
 
-**Login Window**![Login Form](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/efd9d7c3-4c8c-4fe1-9c1d-efb4a9ee3c47)
+**Login Window**
+________________
+![Login Form](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/efd9d7c3-4c8c-4fe1-9c1d-efb4a9ee3c47)
 
 
 **AI Code window**
+__________________
 ![AI Code](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/84e0d050-49ba-453e-803b-1bc9eced7c2c)
 
 
 **AI Chat window**
+__________________
 ![AI Chat](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/906c8486-295f-4564-845e-c3124fe8b68e)
 
 
 **AI Assist Window**
+____________________
 ![AI Assist](https://github.com/AnshumanDec2K/run-your-gpt/assets/91108386/0dc6e006-3599-4e43-a16c-52c41cf595f5)
 
 

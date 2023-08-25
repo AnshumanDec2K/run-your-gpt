@@ -51,7 +51,7 @@ ____________________
 
 The Full Stack GPT Chat App employs a range of technologies to provide a seamless experience:
 
-- **Frontend**: The frontend is developed using modern web technologies like HTML5, CSS3, and JavaScript. The user interface is designed to be intuitive, interactive, and responsive.
+- **Frontend**: The frontend is developed using modern web technologies like Vite, ReactJs and the react chat engine. The user interface is designed to be intuitive, interactive, and responsive.
 
 - **Backend**: The backend is built using a robust framework like Node.js, which handles user authentication, chat history management, and interactions with the GPT language model.
 

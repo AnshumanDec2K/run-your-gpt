@@ -33,6 +33,8 @@ ____________________
 
 - **Realistic Conversations**: The chatbot is powered by OpenAI's GPT model, which enables it to generate human-like responses and engage in meaningful conversations.
 
+- **AI Coding and autocomplete assistance**: The chatbot is powered by OpenAI's GPT model, which enables it to code based on the problem statement provided and also autocomplete with suggestions based upon the incomplete prompt of the user.
+
 - **User Authentication**: Users can create accounts and log in to the application, ensuring their chat history and preferences are retained.
 
 - **Responsive Design**: The app's user interface is designed to work flawlessly across various devices, including desktops, tablets, and mobile phones.
